@@ -50,14 +50,26 @@
 
 ---
 
+<br>
+<div id="repos" align="center">
+
+### Currently Active Repos
 
 
-### 🔥Stats
 
-<div id="stats" align="left">
-  <br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stayyFrostyy&repo=projecteuler&theme=monokai&hide_border=True&)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stayyFrostyy&repo=car-park-registry-cpp&theme=monokai&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayyFrostyy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<div id="stats" align="center">
+
+### Stats
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayyFrostyy&show_icons=true&theme=monokai&hide_border=True&include_all_commits=True&text_bold=True)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
