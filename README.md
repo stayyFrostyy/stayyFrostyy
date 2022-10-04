@@ -69,7 +69,7 @@
 ### Stats
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayyFrostyy&show_icons=true&theme=monokai&hide_border=True&include_all_commits=True&text_bold=True&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayyFrostyy&show_icons=true&theme=monokai&hide_border=True&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
