@@ -51,18 +51,6 @@
 ---
 
 <br>
-<div id="repos" align="center">
-
-### Currently Active Repos
-
-
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stayyFrostyy&repo=projecteuler&theme=monokai&hide_border=True&)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stayyFrostyy&repo=car-park-registry-cpp&theme=monokai&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<br>
 
 <div id="stats" align="center">
 
