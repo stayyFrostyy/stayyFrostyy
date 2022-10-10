@@ -50,7 +50,6 @@
 
 ---
 
-<br>
 
 <div id="stats" align="center">
 
