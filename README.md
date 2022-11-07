@@ -24,11 +24,11 @@
 
 ### 🙆 About Me:
 
-- 👋 Hi, I’m @stayyFrostyy, a hobbyist developer from the :uk:.
+- 👋 Hi, I’m @stayyFrostyy, an ambitious hobbyist developer from the :uk:.
 
 - 👀 I’m interested in Cloud Architecture and Full-Stack Development.
 
-- 🌱 I’m currently learning everything I can, but focussing on C++ and Python.
+- 🌱 I’m currently learning everything I can, but focussing on Fullstack Engineering.
 
 
 ---
@@ -42,7 +42,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Discord.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <br>
