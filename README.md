@@ -24,7 +24,7 @@
 
 ### 🙆 About Me:
 
-- 👋 Hi, I’m @stayyFrostyy, an ambitious hobbyist developer from the :uk:.
+- 👋 Hi, I’m @toofrosty, an ambitious hobbyist developer from the :uk:.
 
 - 👀 I’m interested in Cloud Architecture and Full-Stack Development.
 
@@ -55,7 +55,7 @@
 ### Stats
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayyFrostyy&count_private=true&show_icons=true&theme=monokai&hide_border=True&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toofrosty&count_private=true&show_icons=true&theme=monokai&hide_border=True&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
