@@ -8,7 +8,7 @@
 
 🌴 Currently I am levelling up my Front-End.
 
-🔧 I am currently develloping a __portfolio website__.
+🔧 I am currently developing a __portfolio website__.
 
 
 
