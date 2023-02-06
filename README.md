@@ -10,6 +10,8 @@
 
 🔧 I am currently developing a __portfolio website__.
 
+I am always learning and improving. No matter what.
+
 
 
 #### 🛠️ Languages and Tools:
