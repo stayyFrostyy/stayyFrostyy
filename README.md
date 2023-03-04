@@ -4,14 +4,13 @@
 
 <br>
 
-👀 I’m interested in Cloud Architecture and Full-Stack Development.
-
-🌴 Currently I am levelling up my Front-End.
-
-🔧 I am currently developing a __portfolio website__.
+🎁 I am currently developing a multi-functional entertainment suite in Node.js to increase engagement by x500.
 
 I am always learning and improving. No matter what.
 
+1% better every day
+
+<br>
 
 
 #### 🛠️ Languages and Tools:
