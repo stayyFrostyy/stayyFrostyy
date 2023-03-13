@@ -1,3 +1,30 @@
+
+![Visitors](https://gpvc.arturio.dev/subfrosty)
+<a href="https://discord.gg/highrise" target="_blank"><img src="https://discordapp.com/api/guilds/890228388311228456/widget.png?style=shield" alt="shield.png">
+
+  <br>
+
+```js
+console.log(`Follow ${subfrosty} on GitHub`);
+```
+
+```python
+       OS  :  windows
+    Scope  :  fullstack, cloud, osint
+Languages  :  Python, Javascript, C# / C++
+  Discord  :  188944954075119616
+   Server  :  890228388311228456
+```
+
+```json
+one percent better everyday
+```
+
+
+<!--
+
+OLD README
+
 <h1 align="center"> Hey 👋, I'm frosty</h1>
 
 <h3 align="center">An ambitious Full Stack Developer from the UK 🖥️</h3>
@@ -27,6 +54,8 @@ I am always learning and improving. No matter what.
 
 <br>
 <br>
+
+--->
 
 <!--
 <img src="https://komarev.com/ghpvc/?username=stayyFrostyy&style=flat-square&color=blue" alt=""/>
