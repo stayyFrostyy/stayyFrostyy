@@ -14,8 +14,8 @@ console.log(`Follow ${subfrosty} on GitHub`);
        OS  :  windows
     Scope  :  fullstack, cloud, osint
 Languages  :  Python, Javascript, C# / C++
-  Discord  :  188944954075119616
-   Server  :  890228388311228456
+  Discord  :  XXXX-XXXX-XXXX-XXXX
+   Server  :  XXXX-XXXX-XXXX-XXXX
 ```
 
 ```json
