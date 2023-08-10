@@ -1,6 +1,8 @@
-
+<!--
 ![Visitors](https://gpvc.arturio.dev/subfrosty)
 <a href="https://discord.gg/highrise" target="_blank"><img src="https://discordapp.com/api/guilds/890228388311228456/widget.png?style=shield" alt="shield.png">
+-->
+
 
   <br>
 
