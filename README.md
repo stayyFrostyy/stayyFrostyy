@@ -12,8 +12,8 @@ console.log(`Follow ${subfrosty} on GitHub`);
 
 ```python
        OS  :  windows
-    Scope  :  fullstack, cloud, osint
-Languages  :  Python, Javascript, C# / C++
+    Scope  :  fullstack & OSINT
+Languages  :  Python, Javascript, C++
   Discord  :  XXXX-XXXX-XXXX-XXXX
    Server  :  XXXX-XXXX-XXXX-XXXX
 ```
@@ -21,7 +21,6 @@ Languages  :  Python, Javascript, C# / C++
 ```json
 one percent better everyday
 ```
-
 
 <!--
 
