@@ -12,7 +12,7 @@ console.log(`Follow ${subfrosty} on GitHub`);
 
 ```python
        OS  :  windows
-    Scope  :  fullstack & OSINT
+    Scope  :  fullstack, osint
 Languages  :  Python, Javascript, C++
   Discord  :  XXXX-XXXX-XXXX-XXXX
    Server  :  XXXX-XXXX-XXXX-XXXX
